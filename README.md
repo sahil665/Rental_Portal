@@ -1,2 +1,2 @@
-# Orbica_Rental_Portal1
-Orbica_Rental_Portal1
+# nodejs-mysql-authentication
+A simple login and register using nodejs, mysql, and jwt token
